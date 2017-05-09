@@ -1,0 +1,25 @@
+.borde01  {
+    border-color: cornflowerblue;
+    border-style: dashed;
+}
+
+.borde02  {
+    border-color: chartreuse;
+    border-style: solid;
+}
+
+.borde021  {
+    border-color: chartreuse;
+    border-style: solid;
+    margin-top: 35px;
+}
+
+.borde03  {
+    border-color: crimson;
+    border-style: dotted;
+}
+
+.borde04  {
+    border-color: darkgreen;
+    border-style: dashed;
+}
