@@ -1,6 +1,6 @@
 function primo()
 {
-    var valor=parseInt(document.getElementById("valor").value);
+    var valor = parseInt(document.getElementById("valor").value);
     var NumeroPrimo=true;
 
     for(i=1;i<valor;i++)
@@ -10,8 +10,8 @@ function primo()
         {
             NumeroPrimo=false;
             break;
-        };
-    };
+        }
+    }
 
     if(NumeroPrimo)
         document.getElementById("resultado").innerHTML="El numero "+valor+" es Primo";
